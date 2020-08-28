@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         val resultTextView: TextView = findViewById(R.id.textView)
         resultTextView.text = diceRoll.toString()
 
-      
+
     }
 }
 
