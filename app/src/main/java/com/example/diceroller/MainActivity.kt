@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     /**
+     * hello
      * Roll the dice and update the screen with the result
      */
     private fun rollDice() {
